@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: 26/05/2023
+Last Updated: 07/06/2023
 
 Thank you for using the *Zombie Slash* app developed by **Atul Patare**. This privacy policy
 explains how we collect, use, and disclose personal information when you use our app. We are
